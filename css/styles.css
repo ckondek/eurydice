@@ -6,3 +6,7 @@ body {
 video {
   margin: 10px;
 }
+
+article{
+  display: inline-block;
+}
